@@ -6,6 +6,15 @@ Reddit의 데이터를 수집하는 파이썬 프로젝트입니다. 특정 서�
 
 이 프로젝트는 `FastMCP`를 사용하여 데이터 수집 기능을 외부에서 호출 가능한 도구(Tool)로 제공합니다.
 
+## Overview
+### 1) 해외 개발자 트렌드 파악
+<img width="1584" height="825" alt="스크린샷 2025-07-13 오후 10 57 48" src="https://github.com/user-attachments/assets/f8c58825-8591-4816-9b35-8d63fc0548ec" />
+
+
+### 2) 1인 사업가 트랜드 파악
+<img width="1577" height="1001" alt="스크린샷 2025-07-13 오후 10 57 02" src="https://github.com/user-attachments/assets/96c5b214-c054-460d-8f1b-544f21e16e2a" />
+
+
 ## 📋 주요 기능
 
   * **📈 인기 게시물 수집**: 지정한 서브레딧의 'hot' 게시물을 원하는 개수만큼 수집합니다.

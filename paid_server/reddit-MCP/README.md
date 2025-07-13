@@ -1,7 +1,3 @@
-네, 알겠습니다. 보내주신 샘플 포맷을 참고하여 `reddit-mcp` 프로젝트의 `README.md` 파일을 다시 작성했습니다.
-
------
-
 # Reddit-MCP
 
 [](https://www.python.org/)
